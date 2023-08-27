@@ -1,4 +1,4 @@
-# Maths_OpenCL
+# MathsOpenCL
 一个以opencl为底层的C++GPU并行计算库，非常的简单.
 windows msvc 170.
 version 155 135 115 tool 185

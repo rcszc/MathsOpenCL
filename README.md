@@ -3,3 +3,4 @@
 windows msvc 170.
 version 155 135 115 tool 185
 - 写的屎山, 已停止更新
+- 请移步至替代品 [StarryPCA](https://github.com/rcszc/StarryPCA)
